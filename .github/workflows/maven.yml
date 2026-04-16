@@ -6,7 +6,7 @@
 # separate terms of service, privacy policy, and support
 # documentation.
 
-name: ci cd pipeline
+name: Java cicd
 
 on:
   push:
