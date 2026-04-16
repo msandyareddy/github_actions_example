@@ -11,7 +11,7 @@ public class SampleCicdApplication {
 
     @GetMapping("/welcome")
     public String welcome() {
-        return " Welcome Msg updated!" ;
+        return " Welcome Msg updated....!" ;
     }
     public static void main(String[] args) {
 
